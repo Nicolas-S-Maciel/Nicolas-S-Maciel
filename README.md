@@ -1,10 +1,12 @@
-# 👩🏻‍💻 Nícolas
+<h1 align="center">Hello I'm Nícolas 👋</h1>
+
+# 📌 About me...
     
 **`Programming Student | JAVA Beginner`**
 
 🤙 Hi, my name is Nícolas Silva Maciel, I'm 17 years old, I'm from Brazil. I'm finishing high school at SESI. I'm currently studying 🚀 JAVA Fundamentals at SENAI. I'm passionate about technology and I'm just starting my journey in this area.
 I also love games, soccer, and cars.
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages 
 
 <img 
     align="left" 
@@ -26,7 +28,7 @@ I also love games, soccer, and cars.
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 My Stats
 
 <p>
   <img 
