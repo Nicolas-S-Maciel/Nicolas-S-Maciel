@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">🤙 Hi, my name is Nícolas Silva Maciel, I'm 18 years old, I'm from Brazil. I'm recently finishing high school at SESI. I'm currently studying 🚀 Systems Analysis and Development
+<p align="left">🤙 Hi, my name is Nícolas Silva Maciel, I'm 18 years old, I'm from Brazil. I recently finished high school at SESI. I'm currently studying 🚀 Systems Analysis and Development
  at SENAI. I'm passionate about technology and I'm just starting my journey in this area. I also love games, soccer, and cars.</p>
 
 ###
