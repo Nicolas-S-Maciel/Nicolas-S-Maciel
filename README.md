@@ -1,74 +1,67 @@
-<div align="center">
-  <img height="450" src="https://images.squarespace-cdn.com/content/v1/67c8c32cd766696885e9b75e/a8060bf7-47c5-411c-b1bc-08d0ced75165/Blue+and+Black+Neon+Bold+Gradient+Modern+Galaxy+Playful+Illustrative+Universe+Project+Presentation+%281%29.gif"  />
-</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=200&section=header&text=Nícolas%20Silva%20Maciel&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=BackEnd+Developer%20%7C%20JAVA%20%7C%20Python&descAlignY=55&descAlign=50"/>
 
-###
+---
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/nícolas-silva-maciel-415675312/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nicolas-S-Maciel.Nicolas-S-Maciel&"  />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=🌐%20Connect%20With%20Me&fontSize=25&height=100" />
 </div>
 
-###
+<a href="https://www.linkedin.com/in/nícolas-silva-maciel-415675312/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+</a>
 
-<h1 align="center">Hello I'm Nícolas 👋</h1>
-
-###
-
-<h2 align="center">📍 About Me</h2>
-
-###
-
-<div align="left">
-  <b>Beginner in Programming | JAVA | Future Full Stack Developer</b>
 </div>
 
-###
+---
 
-<p align="left">🤙 Hi, my name is Nícolas Silva Maciel, I'm 18 years old, I'm from Brazil. I recently finished high school at SESI. I'm currently studying 🚀 Systems Analysis and Development
- at SENAI. I'm passionate about technology and I'm just starting my journey in this area. I also love games, soccer, and cars.</p>
-
-###
-
-<h2 align="center">🤖 Languages</h2>
-
-###
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00008b&size=30&center=true&vCenter=true&width=1000&lines=👋+Hello;I'm+Nícolas;)](https://git.io/typing-svg)
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=📍%20About%20Me&fontSize=25&height=100" />
 </div>
 
-###
 
-<h2 align="center">📊   My Stats</h2>
+<p align="center">
+👋 Hi! I'm <b>Nícolas Silva Maciel</b>, an aspiring Back-End Developer based in São Paulo, Brazil. I am currently pursuing a degree in <b>Systems Analysis and Development (ADS) at SENAI-SP</b>, building upon my previous technical background in Biomedical Equipment.
+I am passionate about solving complex problems through code, with a primary focus on <b>Java and Python</b>. My current goal is to master software architecture and development best practices as I work toward becoming a Full Stack Developer.
+Beyond programming, I am a dedicated hardware and technology enthusiast, constantly following industry innovations to optimize performance and workflow.
 
-###
+</p>
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nicolas-S-Maciel&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=discord_old_blurple&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nicolas-S-Maciel&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=true&order=2" height="200" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=Nicolas-S-Maciel&locale=en&mode=daily&theme=discord_old_blurple&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=🤖%20My%20Languages&fontSize=25&height=100" />
 </div>
 
-###
+<div align="center">
+  
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0D1117)&nbsp;
+![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=0D1117)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=⚙️%20Tools&fontSize=25&height=100" />
+</div>
 
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6)
+![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![LaTeX](https://img.shields.io/badge/-LaTeX-0D1117?style=for-the-badge&logo=latex&logoColor=008080&labelColor=0D1117)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=📊%20My%20Stats&fontSize=25&height=100" />
+</div>
+  
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yuurih44&theme=dark&background=00008b&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&border=00008b"/>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=footer"/>
