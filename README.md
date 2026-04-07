@@ -8,9 +8,22 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=🌐%20Connect%20With%20Me&fontSize=25&height=100" />
 </div>
 
-<a href="https://www.linkedin.com/in/nícolas-silva-maciel-415675312/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+<a href="mailto:contatonicolas@proton.me">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="40" alt="Gmail Logo" />
 </a>
+
+<a href="https://www.linkedin.com/in/nícolas-s-maciel/" target="_blank">
+  <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="40" alt="LinkedIn Logo" />
+</a>
+
+<a href="https://discord.gg/751828499756744765" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" height="40" alt="Discord Logo" />
+</a>
+
+
+</a>
+
+
 
 </div>
 
