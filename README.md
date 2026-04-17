@@ -74,7 +74,7 @@ Beyond programming, I am a dedicated hardware and technology enthusiast, constan
 </div>
   
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yuurih44&theme=dark&background=00008b&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&border=00008b"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Nicolas-S-Maciel&theme=dark&background=00008b&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&border=00008b"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00008b&height=120&section=footer"/>
