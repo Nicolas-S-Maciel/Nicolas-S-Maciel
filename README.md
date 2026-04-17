@@ -48,24 +48,25 @@ Beyond programming, I am a dedicated hardware and technology enthusiast, constan
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=🤖%20My%20Languages&fontSize=25&height=100" />
 </div>
-
 <div align="center">
   
-![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=0D1117)&nbsp;
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=0D1117)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0D1117)
+[![Java](https://skillicons.dev/icons?i=java,&perline=3)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=py,&perline=3)](https://skillicons.dev)
+[![C](https://skillicons.dev/icons?i=c,&perline=3)](https://skillicons.dev)
+[![C++](https://skillicons.dev/icons?i=cpp,&perline=3)](https://skillicons.dev)
+[![CSS](https://skillicons.dev/icons?i=css,&perline=3)](https://skillicons.dev)
+[![HTML](https://skillicons.dev/icons?i=html,&perline=3)](https://skillicons.dev)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=⚙️%20Tools&fontSize=25&height=100" />
 </div>
 
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117)&nbsp;
-![Windows](https://img.shields.io/badge/Windows-0D1117?style=for-the-badge&logo=windows&logoColor=0078D6)
-![VS Code](https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![LaTeX](https://img.shields.io/badge/-LaTeX-0D1117?style=for-the-badge&logo=latex&logoColor=008080&labelColor=0D1117)
+[![GitHub](https://skillicons.dev/icons?i=github,&perline=3)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git,&perline=3)](https://skillicons.dev)
+[![Windows](https://skillicons.dev/icons?i=windows,&perline=3)](https://skillicons.dev)
+[![VsCode](https://skillicons.dev/icons?i=vscode,&perline=3)](https://skillicons.dev)
+[![PyCharm](https://skillicons.dev/icons?i=pycharm,&perline=3)](https://skillicons.dev)
+[![LateX](https://skillicons.dev/icons?i=latex,&perline=3)](https://skillicons.dev)
 
 ---
 
